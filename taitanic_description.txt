@@ -1,0 +1,13 @@
+Features:
+Passenger ID - To identify unique passengers
+PClass - The class passengers travelled in
+Sex - Gender of Passenger
+Age - Age of passenger
+SibSp - Number of siblings or spouse
+Parch - Parent or child
+Ticket - Ticket number
+Fare - Amount paid for the ticket
+Embarked - Point of embarkment
+
+Target:
+Survived - If they survived or not
